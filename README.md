@@ -68,7 +68,7 @@ EDUTUTOR-AI/
 
 Because of GitHub’s file size limitations, you can watch the full working demo of EduTutor AI here:
 
-▶️ [Click to Watch the Demo on Google Drive](https://drive.google.com/file/d/1arj4MLp-igd9wb6yjFHY8nx8VACvRBTp/view?usp=sharing)
+▶️ [Click to Watch the Demo on Google Drive](https://drive.google.com/file/d/1Sw3hFphvkME6BnDfkYjDanfyhsrIz7Nc/view?usp=sharing)
 
 
 ----------------------
@@ -217,8 +217,8 @@ We welcome contributors! Please fork this repo, create a new branch, and raise a
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:saireddy.annamareddy@gmail.com)
-- 🐛 Issues: [Open a GitHub Issue](https://github.com/SaiReddyA-1/EduTutor-AI__personalized-learning-with-generative-ai-and-lms-integration/issues)
+- 📧 [Email](mailto:iswaryakamakshi@gmail.com)
+- 🐛 Issues: [Open a GitHub Issue](https://github.com/kamakshiiswarya/EduTutor-AI-Personalized-Learning-with-Generative-AI-and-LMS-Integration/issues)
 
 ---
 
